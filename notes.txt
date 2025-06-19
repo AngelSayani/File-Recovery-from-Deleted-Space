@@ -1,0 +1,15 @@
+Team Meeting Notes - January 8, 2024
+
+Attendees: Development team
+Topics discussed:
+- Sprint planning for Q1
+- Code review process improvements
+- Upcoming product launch preparation
+- Team building event planning for February
+
+Action items:
+- Update JIRA boards by EOD
+- Schedule architecture review meeting
+- Complete security training by Jan 15
+
+Next meeting: January 15, 2024
