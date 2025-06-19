@@ -1,0 +1,26 @@
+CASE: Employee Data Theft Investigation
+DATE: 2024-01-15
+INVESTIGATOR: Digital Forensics Team
+
+INCIDENT SUMMARY:
+Employee John Smith (ID: JS-4521) left the company on January 10, 2024.
+IT Security noticed unusual deletion activity on his workstation on January 9, 2024.
+Multiple sensitive files were reportedly deleted between 14:00-16:00 hours.
+
+EVIDENCE COLLECTED:
+- Disk image created: January 11, 2024 09:00 AM
+- Image file: employee_disk.img
+- Image hash (MD5): 3f4b8a2d9e7c5f1a6b8d4e2f9c3a7b5d
+- Image hash (SHA256): a8f7d3b2e9c4a1f6d8b3e7c9f2a5d8b1e7c3f9a2d6b8e1c7f3a9d2b6e8c1f7
+
+SUSPECTED FILES DELETED:
+- Financial reports (Q4 2023)
+- Customer database exports
+- Project documentation
+- Email archives
+
+INVESTIGATION OBJECTIVES:
+1. Recover deleted files from the disk image
+2. Verify integrity of recovered data
+3. Create timeline of deletion activities
+4. Document all findings for legal proceedings
