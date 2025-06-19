@@ -1,0 +1,24 @@
+EMAIL ARCHIVE 2023 - METADATA
+=============================
+Archive Name: email_archive_2023.pst
+Total Messages: 2,547
+Date Range: January 1, 2023 - December 31, 2023
+Total Size: 1.2GB
+
+Folder Structure:
+- Inbox: 1,234 messages
+- Sent: 876 messages
+- Drafts: 45 messages
+- Executive: 234 messages (RESTRICTED)
+- Legal: 89 messages (CONFIDENTIAL)
+- HR: 69 messages (SENSITIVE)
+
+Key Correspondences:
+- Board communications: 45 threads
+- Merger discussions: 23 threads
+- Legal matters: 34 threads
+- Confidential HR issues: 12 threads
+
+Contains attachments: Yes
+Encryption: AES-256
+Last accessed: January 9, 2024 14:15:00
