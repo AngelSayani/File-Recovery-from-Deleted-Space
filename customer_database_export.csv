@@ -1,0 +1,11 @@
+Customer_ID,Name,Email,Phone,Account_Value,Last_Purchase,Status
+C001,John Doe,john.doe@techcorp.com,555-0101,$45000,2023-12-15,Active
+C002,Jane Smith,jane.smith@webinc.com,555-0102,$67000,2023-12-20,Active
+C003,Robert Johnson,r.johnson@datasoft.com,555-0103,$23000,2023-11-30,Active
+C004,Mary Williams,m.williams@cloudnet.com,555-0104,$89000,2023-12-22,Premium
+C005,David Brown,d.brown@innovate.com,555-0105,$56000,2023-12-18,Active
+C006,Lisa Davis,l.davis@techstart.com,555-0106,$34000,2023-12-10,Active
+C007,Michael Wilson,m.wilson@digitalco.com,555-0107,$78000,2023-12-25,Premium
+C008,Sarah Martinez,s.martinez@webworld.com,555-0108,$45000,2023-12-12,Active
+C009,Thomas Anderson,t.anderson@matrix.com,555-0109,$123000,2023-12-28,Premium
+C010,Jennifer Taylor,j.taylor@startup.com,555-0110,$67000,2023-12-19,Active
